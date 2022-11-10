@@ -1,0 +1,15 @@
+/* Iki kisinin oynayacagi bir kelime oyunu uretelim
+
+          *      Kurallar
+          *      1) Baslangicta 1.oyuncudan bir kelime girmesini isteyin
+          *         ve kelimeyi yazdirin
+          *          1.oyuncu kelimeyi girince; 2.oyuncuya kelimeyi kabul edip etmedigini sorun.
+          *      2)  * Eger kelimeye
+          *          2.oyuncu Evet derse, kabul ederse 2.oyuncuya tamamMi devam Mi? diye sorun
+          *          2.oyuncu Evet ,devam derse kelimeye eklemek icin bir String isteyin ve bunu
+          *          basa mi sona mi ekleyecegini sorun aldiginiz string'i kelimeye ekleyip
+          *          1.oyuncuya girilen Stringi kabul edip etmedigini sorun
+          *          *Eger kelime oyununa  2.oyuncu Hayir devam etmiycem tamam derse 1.oyuncuya girdigi kelimenin harf sayisi
+                      kadar puan verin "Oyun bitti" yazin
+          *          Kullanicilarin puanlarini ve kazanan oyuncuyu yazdirin
+          */
